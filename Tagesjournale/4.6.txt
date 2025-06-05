@@ -1,0 +1,27 @@
+Heute habe ich mein Projekt angefangen.
+Anfangs wusste ich nicht, was ich machen sollte.
+Ich habe versucht mit dem ChatGPT prompt von frank, manche Ideen zu suchen.
+Es hat mir Ideen gegeben, aber mit keiner war ich wirklich glücklich.
+Darum habe ich mir weiter Gedanken gemacht.
+Meine Gedanken waren, was brauche ich vielleicht in meiner Freizeit, wie könnte mir dieses Projekt helfen oder ob ich irgendwo ein Problem habe, welches ich lösen könnte.
+Ich habe mich eigentlich fast eingegrenzt auf ein Spiel, da dies mir beim letzten mal sehr Spass gemacht hat.
+Im Internet habe gesucht ob man mit ABAP auch ein Spiel programmieren konnte, was aber fast nicht möglich ist.
+Tools wären möglich, aber keines hat mich richtig angesprochen.
+
+Dann habe ich eine game engine gesucht, welche ich verwenden könnte um mein Spiel zu erstellen.
+Dabei dachte ich mir, ich könnte nochmals mit Unity einen weiteren Versuch starte, jedoch fand ich das langweilig, weil ich schon beim Sportferien Projekt ein Unity Escape Room gemacht habe.
+Schlussendlich mit viel Gedanken bin ich auf Roblox gekommen.
+Da ich selber ab und zu Roblox spiele und weiss, dass sie eine game engine namens Roblox Studio gratis anbieten.
+Jedoch wollte die Verbindung mit meinem Lehrbetrieb erhalten haben.
+Darum werde ich einen Roblox Tycoon erstellen, indem man eine Migros Filiale bauen muss.
+
+Ich habe alle Aufträge gemacht, das Repository und Project auf GitHub erstellt. 
+
+Bei den Issues habe ich sehr viel Zeit gebraucht. 
+
+
+
+
+
+
+
