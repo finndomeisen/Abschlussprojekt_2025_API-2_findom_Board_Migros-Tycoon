@@ -2,8 +2,8 @@
 
 Willkommen zu **Migros Tycoon**!
 
-Ich entwickle dieses Roblox-Spiel, in dem du deine eigene Migros-Filiale aufbauen kannst. 
-Du startest mit einem kleinen Laden und erweiterst ihn Schritt für Schritt zu einem erfolgreichen Supermarkt. 
+Ich entwickle dieses Roblox-Spiel, in dem du deine eigene Migros-Filiale aufbauen kannst.
+Du startest mit einem kleinen Laden und erweiterst ihn Schritt für Schritt zu einem erfolgreichen Supermarkt.
 Verdiene Geld, investiere in neue Abteilungen und optimiere deine Filiale, um möglichst viele Kunden zufriedenzustellen.
 
 ## Features

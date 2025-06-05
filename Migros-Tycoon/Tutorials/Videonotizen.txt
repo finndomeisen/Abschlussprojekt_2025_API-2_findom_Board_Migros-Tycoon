@@ -1,0 +1,53 @@
+Notizen
+
+
+Roblox Studio
+console, pc, vr and Handy
+experience can have different worlds, with each different places, script, world etc.
+datamodel = stores and organisez all object in the experience
+collaborating is possible in the creation
+instant testing is possible
+Cloud is possible for collaboration, editing, Version control
+the creator Dashboard is the home to do a lot of Things, to manage your experience
+Roblox besteht aus einer Bibliothek vom Millionen von spielen. Es ist wie ein game launcher
+
+
+datamodel Video:
+
+organize object, behaviour, update or Change
+People an mashines agree
+it stores a values, everything
+parts, script, Services
+it follows a Client - Server model, the Connection between the Client(device) and the Server
+Replication
+does sync
+server-side protection, only visible for server
+
+
+
+
+Objects Video:
+
+Save 3D gemoetry, user interfaces, scripts
+basepart, can Import meshes from blender
+can Combine different parts to create what you want
+luau is fast, safe and effective language
+script can run either on Client or Server or even both.
+Roblox Services are built in feautres 
+can Import a lot of Things from third Party Softwares
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
