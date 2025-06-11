@@ -1,0 +1,22 @@
+Heute hatte ich Homeoffice.
+Ich habe am Morgen am Tycoon gearbeitet, heisst den Floor, die walls, die decke und den Eingang gemacht.
+Das alles habe ich mit "parts" gemacht und diese dann einfach in die gewünschte Grösse verformt.
+
+Dann habe ich angefangen den ersten Dropper zu machen. 
+Ich habe kurze Tutorials gelesen und geschaut und dann angefangen das Gerüst zu bauen aus zwei Blöcken.
+Der Dropper, also der Quader wo die Drops rauskommen habe ich angefangen zu programmieren.
+Mit Hilfe von Online Hilfen und ChatGPT konnte ich es machen, dass jede Sekunde ein Block aus diesem Quader kommen.
+Auf das bin ich sehr stolz.
+
+Dann habe ich versucht ein conveyor zu machen, dass ist das Förderband.
+Dort konnte ich vom Internet ein Lua Script kopieren und einfügen.
+Dies hat funktioniert, aber noch nicht geschmeidig.
+Fürs erste habe ich es so belassen.
+
+Nach dem Förderband habe ich die Geldanzeige gemacht.
+Mit einem ScreenGUI, TextLabel und einem LocalScript für die Anzeige des Geldes.
+
+Danach habe ich versuch den collector zu erstellen und programmieren.
+Das ist ein part, welche die generierten Blöcke auffänge und zu Geld transformiert.
+Jedoch funktioniert das noch nicht gut. 
+
