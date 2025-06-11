@@ -1,0 +1,35 @@
+Heute war der letzte Tag in der ersten Woche.
+Ich habe erfolgreich die Welt erstellt.
+Ich habe angefangen mit der Platte.
+Darüber habe ich eine Schicht Gras.
+Danach habe ich einen Rand gemacht.
+Die eine Seite des Randes besteht aus Hochhäusern und die andere aus Bergen.
+Als Himmel habe ich ein Modell von der Toolbox importiert.
+Ich finde es sieht sehr schön aus mit den Häusern und den Bergen. 
+Dann habe ich eine unsichtbare Wand dazu gemacht damit man wirklich nicht durchkommt.
+
+In der Mitte des Platzes ist der Spawnpunkt, also dort spawnt man wenn man das erste Mal beitritt.
+Das Modell des Spawnpunktes habe ich mit dem Migros Logo ersetzt.
+Von der Mitte aus habe ich vier Wege gemacht, welche je zu den vier Tycoons gehen.
+Ebenfalls habe ich noch Bäume erstellt, welche als Dekoration dienen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
