@@ -1,0 +1,28 @@
+Heute bin ich sehr weite mit meinem Spiel gekommen, jedoch nicht weit mit der Dokumentation.
+Ich habe hauptsächlich an dem Gameplay und der Logik meines Spieles gearbeitet.
+Ebenfalls habe ich viel gecoded.
+Da mir das Haus bisher nicht sehr gefiel, habe ich coole bereits erstellte Stoffe für meine Wände und alles angewendet.
+Jetzt sieht es so richtig gut aus, wie ein echtes Haus.
+
+Dann habe ich das Sliding door etwas optimiert.
+
+Der Haupteil des Tages habe ich mit der Programmierung gebraucht.
+Mit dem Geld, das es abgezogen wird.
+Und das man nur mit mindestens dem Betrag etwas zahlen kann.
+
+Nicht ganz fertig geworden bin ich mit der Reihenfolge.
+Es sollte nicht so sein, dass man am anfang alles kaufen kann.
+Sondern soll man alles nacheinander freischalten, wenn man das vorherige Item gekauft hat.
+
+Für das Förderband habe ich noch nach einem neuen Code gesucht, weil der letzt nicht makellos funktionierte.
+
+Ebenfalls habe ich mit einer AI ein Bild von einem Migros Ice Tea zu einem 3D Modell generieren lassen. 
+Das hat sehr gut funktioniert.
+
+
+
+
+
+
+
+
