@@ -1,0 +1,29 @@
+Heute habe ich wieder nicht an der Dokumentation gearbeitet.
+Ich habe weiter an der Logik und dem Gameplay gearbeitet.
+
+Ich habe mit AI ein Bild für mein Spiel generiert.
+Ich finde es sehr cool und fasst den Tycoon gut zusammen.
+Es sieht spassig und ansprechend aus.
+
+Ebenfalls habe ich viel im GitHub aktualisiert.
+Neue Issues erstellt und die fertigen abgehackt.
+
+Da ich ein Regal mit Migros Produkte haben und ich bereits den IceTea gemacht habe, habe ich noch 3 weiter Modelle von einem Bild mit einer AI gemacht.
+Das ist der Energy Drink, Glace und Wackelpudding.
+
+Mit dem Endprodukt bin ich zufrieden und ich finde es sieht super aus in dem Regal.
+
+Ich habe noch zwei weitere Dropper gemacht und bin an einem upgrader dran, welcher die bisher langweiligen grauen Blöcke zu den Migros IceTea verwandeln soll.
+Dieser hat dann mehr Wert.
+
+
+
+
+
+
+
+
+
+
+
+
