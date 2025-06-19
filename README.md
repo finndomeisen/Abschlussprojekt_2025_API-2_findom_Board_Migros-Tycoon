@@ -1,25 +1,43 @@
-# Migros Tycoon
+# Migros Tycoon – Roblox-Spiel
 
-Willkommen zu **Migros Tycoon**!
+Willkommen im Repository meines Abschlussprojekts. In diesem Projekt entwickle ich ein eigenes Tycoon-Spiel in Roblox, bei dem die Spieler Schritt für Schritt ihre eigene Migros-Filiale aufbauen können.
 
-Ich entwickle dieses Roblox-Spiel, in dem du deine eigene Migros-Filiale aufbauen kannst.
-Du startest mit einem kleinen Laden und erweiterst ihn Schritt für Schritt zu einem erfolgreichen Supermarkt.
-Verdiene Geld, investiere in neue Abteilungen und optimiere deine Filiale, um möglichst viele Kunden zufriedenzustellen.
+## Ziel des Spiels
+
+Der Spieler startet auf einem leeren Tycoon-Platz und verdient Geld durch Klicks und automatische Dropper. Mit dem verdienten Geld können nach und nach Elemente der Migros-Filiale gekauft werden – von Wänden und Regalen bis hin zu Migros-Produkten wie Ice Tea oder Glace. Ziel ist es, die gesamte Filiale Stück für Stück freizuschalten.
+
+## Technologien
+
+* Roblox Studio
+* Lua (Scripting)
+* Blender (für eigene 3D-Modelle)
+* GitHub (Versionierung und Projektmanagement)
+
+## Inhalte des Repos
+
+* Lua-Skripte für Dropper, Geldsystem, Upgrader, Kauf-Logik und mehr
+* Eigene 3D-Modelle von Migros-Produkten
+* Gantt-Diagramme für Planung und tatsächlichen Ablauf
+* Projektdokumentation mit allen relevanten Informationen
+* GitHub Projects mit Issues, Labels und Meilensteinen
 
 ## Features
 
-- Aufbau einer Migros-Filiale
-- Verschiedene Upgrades und Erweiterungen
-- Automatisierte Produktionsketten
-- Wettbewerbe mit anderen Spielern
+* Tycoon-System mit vier Plätzen
+* Dropper und Förderband mit funktionierender Geldmechanik
+* UI-Anzeige für das verdiente Geld
+* Kauf-Logik mit Geldabzug und Freischaltung
+* Upgrader, der Standardblöcke in Migros Ice Tea verwandelt
+* Migros-Produkte als dekorative Objekte im Regal
+* Automatische Sliding Doors bei Annäherung
+* Adminsystem mit HD Admin
+* Fortschritt wird beim Verlassen zurückgesetzt (kein Speichersystem)
 
-## Installation & Start
+## Learnings
 
-1. Öffne Roblox und suche nach **Migros Tycoon**.
-2. Starte das Spiel und beginne mit dem Aufbau deiner Filiale.
+Durch das Projekt habe ich die Grundlagen der Sprache Lua gelernt und ein komplexes Spielsystem aufgebaut. Ich habe Erfahrungen in der Spielelogik, im Umgang mit Blender und Roblox Studio gesammelt und mit Git und GitHub gearbeitet.
 
-## Mitmachen
+## Status
 
-Hast du Feedback, Ideen oder Bugs gefunden? Erstelle gerne ein Issue!
+Projekt abgeschlossen. Das Spiel kann jederzeit erweitert oder angepasst werden.
 
-Viel Spass beim Spielen!
