@@ -4,7 +4,8 @@ Willkommen im Repository meines Abschlussprojekts. In diesem Projekt entwickle i
 
 ## Ziel des Spiels
 
-Der Spieler startet auf einem leeren Tycoon-Platz und verdient Geld durch Klicks und automatische Dropper. Mit dem verdienten Geld können nach und nach Elemente der Migros-Filiale gekauft werden – von Wänden und Regalen bis hin zu Migros-Produkten wie Ice Tea oder Glace. Ziel ist es, die gesamte Filiale Stück für Stück freizuschalten.
+Der Spieler startet auf einem leeren Tycoon-Platz und verdient Geld durch Klicks und automatische Dropper. Mit dem verdienten Geld können nach und nach Elemente der Migros-Filiale gekauft werden. 
+Von Wänden und Regalen bis hin zu Migros-Produkten wie Ice Tea oder Glace. Ziel ist es, die gesamte Filiale Stück für Stück freizuschalten.
 
 ## Technologien
 
