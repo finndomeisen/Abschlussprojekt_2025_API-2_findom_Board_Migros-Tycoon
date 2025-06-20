@@ -1,0 +1,27 @@
+Heute hatte ich Homeoffice
+
+Am Morgen bis zum Mittag habe ich an der Dokumentation gearbeitet.
+Ich habe das Gantt Diagramm fertig gemacht.
+Dann habe ich die Planung fertig geschrieben.
+
+Jedoch muss ich noch den ganzen Hauptteil schreiben.
+
+Den Nachmittag habe ich gebraucht, um zählige Sounds importiert.
+Ich habe im Internet nach passenden Tönen gesucht und habe diese dann von Youtube mit einem mp3 converter heruntergeladen.
+Diese habe ich dann ich Roblox creator hub importiert und konnte sie dann ich Roblox Studio zugreifen.
+
+Dann habe ich herausgefunden, anstatt für jedes einzelne Objekt extra einen Sound hinzuzufügen kann man die Datei einfach im Replicatet Storage speichern.
+Diesen Sound wird dann vom Skript angefordert und es spielt ihn wenn man eine gewisse Aktion macht.
+Ich habe mich schlussendlich auf drei verschiedene Töne beschlossen welche bei verschiedenen Events zutreffen.
+
+Ebenfalls habe ich die Modelle repariert, da sie nicht richtig funktionierten.
+Sie schwebten einfach in der Luft.
+
+Jetzt muss ich nur noch den Ladebildschirm erstellen, damit man nicht sieht wie alles lädt.
+
+
+
+
+
+
+
