@@ -1,0 +1,9 @@
+Heute habe ich wieder mehr an meinem Spiel gearbeitet.
+
+Ich konnte erfolgreich einen sehr coolen und ansprechenden Loadingscreen erstellen und gestalten.
+Er gefällt mir sehr, da er animiert ist und viele Farben enthält.
+Am Anfang hatte ich das Problem, dass er nicht auf dem ganzen Screen war, für das habe ich schnell eine Lösung gefunden; man muss im LocalScript die Properties angeben, also bestimmen dass er auf dem ganzen Bildschirm ist.
+
+Dann habe ich noch angefangen, wenn man reinjoint, dass ein kleines Tutorial GUI kommt, welches den Tycoon allgemein erklärt, mit dem bin praktisch fertig, ich muss noch den Code ein wenig aufräumen.
+
+Danach habe ich noch an der Dokumentation geschrieben. Jetzt muss ich noch den Hauptteil machen.
